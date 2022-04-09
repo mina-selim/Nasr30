@@ -2,7 +2,7 @@
 #define _ADD_H_
 
 int add(int , int);
-#define test 5
+#define test 20
 
 #endif
 asdfghjk,l
